@@ -2,7 +2,7 @@ package two_pointers
 
 import "sort"
 
-func threeSum(nums []int) [][]int {
+func three_sum(nums []int) [][]int {
 	var res [][]int
 
 	sort.Ints(nums)
@@ -22,7 +22,7 @@ func threeSum(nums []int) [][]int {
 			} else if target < 0 {
 				low++
 			} else {
-				res = append(res, []int{nums[low], nums[i], nums[high]})
+				res = append(res, []int{nums[i], nums[low], nums[high]})
 
 				low++
 				for nums[low] == nums[low-1] && low < high {
