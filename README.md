@@ -8,4 +8,6 @@
 |[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [solution](stacks/valid_parantheses/valid_parentheses.go) | easy, string,  stack |
 |[155. Min Stack](https://leetcode.com/problems/min-stack/) | [solution](stacks/min_stack/min_stack.go) | medium, design, stack |
 |[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [solution](backtracking/generate_parenthesis/generate_parenthesis.go) | medium, design, backtracking |
-|[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/generate-parentheses/) | [solution](backtracking/generate_parenthesis/generate_parenthesis.go) | medium, stack, backtracking |
+|[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/generate-parentheses/) | [solution](backtracking/btree_preorder_traversal/preorder_traversal.go) | easy, stack, backtracking |
+|[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [solution](backtracking/btree_inorder_traversal/inorder_traversal.go) | easy, stack, backtracking |
+gi
