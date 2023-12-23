@@ -7,7 +7,7 @@ import (
 	backtracking "github.com/mustafah15/leetcode.go/backtracking"
 )
 
-func Test_preorder_traversal(t *testing.T) {
+func Test_inorder_traversal(t *testing.T) {
 	testnode_2 := backtracking.TreeNode{1, nil, nil}
 	testnode_1 := backtracking.TreeNode{2, &testnode_2, nil}
 	testnode_3 := backtracking.TreeNode{3, &testnode_1, nil}

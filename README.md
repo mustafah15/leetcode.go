@@ -10,5 +10,5 @@
 |[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [solution](backtracking/generate_parenthesis/generate_parenthesis.go) | medium, design, backtracking |
 |[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/generate-parentheses/) | [solution](backtracking/btree_preorder_traversal/preorder_traversal.go) | easy, stack, backtracking |
 |[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [solution](backtracking/btree_inorder_traversal/inorder_traversal.go) | easy, stack, backtracking |
-|[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](backtracking/btree_postorder_traversal/postorder_traversal.go) | easy, stack, backtracking |
-g
+|[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [solution](backtracking/btree_postorder_traversal/postorder_traversal.go) | easy, stack, backtracking |
+|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [solution](backtracking/invert_btree/invert_btree.go) | easy, dfs, backtracking |
