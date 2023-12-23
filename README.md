@@ -7,4 +7,5 @@
 |[15. 3Sum](https://leetcode.com/problems/3sum/) | [solution](two_pointers/three_sum/three_sum.go) | medium, sorting,  two-pointers |
 |[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [solution](stacks/valid_parantheses/valid_parentheses.go) | easy, string,  stack |
 |[155. Min Stack](https://leetcode.com/problems/min-stack/) | [solution](stacks/min_stack/min_stack.go) | medium, design, stack |
-|[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [solution](backtracking/generate_parenthesis.go) | medium, design, backtracking |
+|[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [solution](backtracking/generate_parenthesis/generate_parenthesis.go) | medium, design, backtracking |
+|[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/generate-parentheses/) | [solution](backtracking/generate_parenthesis/generate_parenthesis.go) | medium, stack, backtracking |
