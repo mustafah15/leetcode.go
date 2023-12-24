@@ -14,7 +14,7 @@ func dfs(node *backtracking.TreeNode, visited *[]int) {
 	}
 }
 
-func inorder_traversal(root *backtracking.TreeNode) []int {
+func inorderTraversal(root *backtracking.TreeNode) []int {
 	var visited = []int{}
 	dfs(root, &visited)
 	return visited

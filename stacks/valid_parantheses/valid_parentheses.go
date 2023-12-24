@@ -45,5 +45,3 @@ func (s *stack) remove(ch rune) bool {
 	s.store = s.store[:len(s.store)-1]
 	return true
 }
-
-// write test function for isValid

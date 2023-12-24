@@ -2,7 +2,7 @@ package two_pointers
 
 import "testing"
 
-func Test_is_palindrome(t *testing.T) {
+func Test_isPalindrome(t *testing.T) {
 	test_cases := []struct {
 		name   string
 		input  string
@@ -15,7 +15,7 @@ func Test_is_palindrome(t *testing.T) {
 
 	for _, test := range test_cases {
 		t.Run(test.name, func(t *testing.T) {
-			if res := is_palindrome(test.input); res != test.expect {
+			if res := isPalindrome(test.input); res != test.expect {
 				t.Errorf("input: %v, expect: %v, but got: %v", test.input, test.expect, res)
 			}
 		})

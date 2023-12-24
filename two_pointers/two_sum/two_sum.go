@@ -1,6 +1,6 @@
 package two_pointers
 
-func two_sum(numbers []int, target int) []int {
+func twoSum(numbers []int, target int) []int {
 	low := 0
 	high := len(numbers) - 1
 

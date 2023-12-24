@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func Test_two_sum(t *testing.T) {
+func Test_twoSum(t *testing.T) {
 	test_cases := []struct {
 		name   string
 		input  []int
@@ -19,7 +19,7 @@ func Test_two_sum(t *testing.T) {
 
 	for _, test := range test_cases {
 		t.Run(test.name, func(t *testing.T) {
-			if res := two_sum(test.input, test.target); !reflect.DeepEqual(res, test.expect) {
+			if res := twoSum(test.input, test.target); !reflect.DeepEqual(res, test.expect) {
 				t.Errorf("input: %v, expect: %d, but got: %d", test.input, test.expect, res)
 			}
 		})

@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func Test_three_sum(t *testing.T) {
+func Test_threeSum(t *testing.T) {
 	test_cases := []struct {
 		name   string
 		input  []int
@@ -17,7 +17,7 @@ func Test_three_sum(t *testing.T) {
 
 	for _, test := range test_cases {
 		t.Run(test.name, func(t *testing.T) {
-			if res := three_sum(test.input); !reflect.DeepEqual(res, test.expect) {
+			if res := threeSum(test.input); !reflect.DeepEqual(res, test.expect) {
 				t.Errorf("input: %v, expect: %v, but got: %v", test.input, test.expect, res)
 			}
 		})

@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-func is_palindrome(s string) bool {
+func isPalindrome(s string) bool {
 	specialCharactersRegex := regexp.MustCompile(`[\p{P}\p{S}]+`)
 	lowerCasedString := strings.ToLower(specialCharactersRegex.ReplaceAllString(s, ""))
 	cleaned := strings.ReplaceAll(lowerCasedString, " ", "")

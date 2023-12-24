@@ -2,7 +2,7 @@ package two_pointers
 
 import "sort"
 
-func three_sum(nums []int) [][]int {
+func threeSum(nums []int) [][]int {
 	var res [][]int
 
 	sort.Ints(nums)

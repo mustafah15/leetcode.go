@@ -16,7 +16,7 @@ func Test_max_area(t *testing.T) {
 
 	for _, test := range test_cases {
 		t.Run(test.name, func(t *testing.T) {
-			if res := max_area(test.input); res != test.expect {
+			if res := maxArea(test.input); res != test.expect {
 				t.Errorf("input: %v, expect: %d, but got: %d", test.input, test.expect, res)
 			}
 		})

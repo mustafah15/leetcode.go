@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func Test_generate_parenthesis(t *testing.T) {
+func Test_generateParenthesis(t *testing.T) {
 	test_cases := []struct {
 		name   string
 		input  int

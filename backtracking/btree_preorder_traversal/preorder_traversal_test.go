@@ -7,7 +7,7 @@ import (
 	backtracking "github.com/mustafah15/leetcode.go/backtracking"
 )
 
-func Test_preorder_traversal(t *testing.T) {
+func Test_preorderTraversal(t *testing.T) {
 	testnode_2 := backtracking.TreeNode{1, nil, nil}
 	testnode_1 := backtracking.TreeNode{2, &testnode_2, nil}
 	testnode_3 := backtracking.TreeNode{3, &testnode_1, nil}
@@ -24,7 +24,7 @@ func Test_preorder_traversal(t *testing.T) {
 
 	for _, test := range test_cases {
 		t.Run(test.name, func(t *testing.T) {
-			if res := preorder_traversal(&test.input); !reflect.DeepEqual(res, test.expect) {
+			if res := preorderTraversal(&test.input); !reflect.DeepEqual(res, test.expect) {
 				t.Errorf("input: %v, expect: %v, but got: %v", test.input, test.expect, res)
 			}
 		})
