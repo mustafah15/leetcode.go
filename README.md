@@ -12,3 +12,4 @@
 |[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [solution](backtracking/btree_inorder_traversal/inorder_traversal.go) | easy, stack, backtracking |
 |[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [solution](backtracking/btree_postorder_traversal/postorder_traversal.go) | easy, stack, backtracking |
 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [solution](backtracking/invert_btree/invert_btree.go) | easy, dfs, backtracking |
+|[704. Binary Search](https://leetcode.com/problems/binary-search) | [solution](binary_search/search.go) | easy, binarysearch |
