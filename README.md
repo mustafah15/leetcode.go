@@ -13,3 +13,4 @@
 |[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [solution](backtracking/btree_postorder_traversal/postorder_traversal.go) | easy, stack, backtracking |
 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [solution](backtracking/invert_btree/invert_btree.go) | easy, dfs, backtracking |
 |[704. Binary Search](https://leetcode.com/problems/binary-search) | [solution](binary_search/search.go) | easy, binarysearch |
+|[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [solution](linkedlist/reverse_list.go) | easy, linkedlist |
