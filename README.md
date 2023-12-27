@@ -14,3 +14,4 @@
 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [solution](backtracking/invert_btree/invert_btree.go) | easy, dfs, backtracking |
 |[704. Binary Search](https://leetcode.com/problems/binary-search) | [solution](binary_search/search.go) | easy, binarysearch |
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [solution](linkedlist/reverse_list.go) | easy, linkedlist |
+|[39. Combination Sum](https://leetcode.com/problems/combination-sum) | [solution](backtracking/combination-sum/combination-sum.go) | medium, backtracking, array |
