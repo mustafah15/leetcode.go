@@ -17,4 +17,6 @@
 |[39. Combination Sum](https://leetcode.com/problems/combination-sum) | [solution](backtracking/combination-sum/combination-sum.go) | medium, backtracking, array |
 |[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [solution](stacks/daily_tempratures.go) | medium, stack, array |
 |[853. Car Fleet](https://leetcode.com/problems/car-fleet) | [solution](stacks/car_fleet/car_fleet.go) | medium, stack, array |
+|[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [solution](stacks/largest_rectangle/largest_rectangle.go) | hard, stack, array |
+
 
