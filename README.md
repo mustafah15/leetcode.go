@@ -1,5 +1,5 @@
 # leetcode Go Solutions
-|  problem on leet code |solution   | tags  | youtube video|
+|  problem on leet code |solution   | tags  | |
 |---|---|---|---|
 |[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [solution](./two_pointers/valid_palindrome/isPlaindrome.go) | easy, string, two-pointers |
 |[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [solution](two_pointers/two_sum/two_sum.go) | medium, binary-search, two-pointers |
@@ -18,5 +18,6 @@
 |[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [solution](stacks/daily_tempratures.go) | medium, stack, array |
 |[853. Car Fleet](https://leetcode.com/problems/car-fleet) | [solution](stacks/car_fleet/car_fleet.go) | medium, stack, array |
 |[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [solution](stacks/largest_rectangle/largest_rectangle.go) | hard, stack, array |
+|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [solution](sliding_window/length_of_longest_substr.go) | hash-table, string, sliding-window |
 
 
