@@ -18,6 +18,6 @@
 |[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [solution](stacks/daily_tempratures.go) | medium, stack, array |
 |[853. Car Fleet](https://leetcode.com/problems/car-fleet) | [solution](stacks/car_fleet/car_fleet.go) | medium, stack, array |
 |[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [solution](stacks/largest_rectangle/largest_rectangle.go) | hard, stack, array |
-|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [solution](sliding_window/length_of_longest_substr.go) | hash-table, string, sliding-window |
-
+|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [solution](sliding_window/length_of_longest_substr.go) | medium, string, sliding-window |
+|[567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [solution](sliding_window/permutation_in_string.go) | medium, string, sliding-window |
 

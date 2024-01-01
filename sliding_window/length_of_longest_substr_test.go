@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func Test_dailyTemperatures(t *testing.T) {
+func Test_lengthOfLongestSubstring(t *testing.T) {
 	test_cases := []struct {
 		name   string
 		input  string
