@@ -23,4 +23,4 @@
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [solution](sliding_window/best_time_to_buy_stock.go) | easy, array, sliding-window |
 |[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [solution](linkedlist/mergeTwoLists.go) | easy, linkedlist |
 |[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list//) | [solution](linkedlist/remove_nth_from_end.go) | medium, two-pointers, linkedlist |
-
+|[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [solution](linkedlist/middle_node.go) | easy, linkedlist, two-pointers |
